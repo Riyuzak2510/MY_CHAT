@@ -21,7 +21,6 @@ const options = {
   key: fs.readFileSync(__dirname + '/certificates/key.pem')
 }
 var rooms = []
-
 app.use(express.json())
 app.use(express.urlencoded({extended:true}))
 app.set('views',path.join(__dirname,'views'))
