@@ -22,7 +22,7 @@
     "passport": "^0.4.0",
     "passport-facebook": "^2.1.1",
     "sequelize": "^4.42.0",
-    "socket.io": "^0.9.19",
+    "socket.io": "^2.4.0",
     "ssl-root-cas": "^1.2.5"
   },
   "devDependencies": {
